@@ -1,0 +1,76 @@
+@font-face {
+    font-family:"star-font";
+    src: url('/fonts/StarJedi.woff') format('woff'),
+        url("/fonts/StarJedi-DGRW.ttf") format("truetype");
+}
+
+body {
+    background-image: url("http://jackxmorris.com/img/star-wars-crawl/background.png");
+    background-size: contain;
+    background-attachment: fixed;
+    color: aliceblue;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+#small-header {
+    font-family: star-font, Helvetica, sans-serif;
+}
+
+#large-header {
+    font-family: star-font, Helvetica, sans-serif;
+    font-size: 15vh;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: inherit;
+}
+
+.character-list {
+    display: inline-block;
+}
+
+.profile-tile {
+    width: 30vw;
+    margin: inherit;
+    text-align: center;
+    padding: 1vw;
+    display: inline-table;
+}
+
+.profile-img {
+    max-width: 20vw;
+}
+
+.quote {
+    font-style: italic;
+    font-weight: 100;
+}
+
+.crawl {
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.crawl-paragraph {
+    margin-top: 50px;
+    text-align-last: justify;
+}
+
+.content {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+#add-link {
+    display: block;  
+    text-decoration: overline;  
+    font-family: star-font, Helvetica, sans-serif;
+}

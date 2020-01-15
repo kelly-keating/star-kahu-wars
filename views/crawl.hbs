@@ -1,0 +1,14 @@
+
+
+<h2><a href="/crawls">{{ep}}</a></h2>
+<p>{{title}}</p>
+    
+<div class="crawl">
+    {{#each paragraphs}}
+        <div class="crawl-paragraph">
+            {{#each this}}
+                <p>{{this}}</p>
+            {{/each}}
+        </div>
+    {{/each}}
+</div>

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name":"Luke Skywalker",
+    "planet": "Tatooine",
+    "jedi": "true",
+    "species": "human",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Luke_Skywalker.png",
+    "quote": "I'm Luke Skywalker. I'm here to rescue you."
+  },
+  {
+    "id": 2,
+    "name":"Leia Organa",
+    "planet": "Alderaan",
+    "jedi": "true",
+    "species": "human",
+    "img_url": "https://pmcdeadline2.files.wordpress.com/2016/12/rexfeatures_5886288fa.jpg",
+    "quote": "Help me Obi-Wan Kenobi, you’re my only hope."
+  },
+  {
+    "id": 3,
+    "name":"Han Solo",
+    "planet": "Corellia",
+    "jedi": "false",
+    "species": "human",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg",
+    "quote": "You’ve never heard of the Millennium Falcon? … It’s the ship that made the Kessel run in less than 12 parsecs."
+  },
+  {
+    "id": 4,
+    "name": "Yoda",
+    "planet": "Dagobah",
+    "jedi": "true",
+    "species": "yoda",
+    "img_url": "https://2.bp.blogspot.com/-KqpGUzIsAHg/UEQF6pGD_KI/AAAAAAAABKI/2hmmrS6Qo4E/s1600/yoda.jpg",
+    "quote": "Do. Or do not. There is no try."
+  },
+  {
+    "id": 5,
+    "name": "Chewwie",
+    "planet": "Kashyyyk",
+    "jedi": "false",
+    "species": "wookiee",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/6/6d/Chewbacca-2-.jpg",
+    "quote": "RRWWWGG"
+  }
+]
